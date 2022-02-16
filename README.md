@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Unhale
 - 👀 I’m interested in Data Structure and algorithms. I have experience in Java, Spring Reactive, Event driven systems, microservices, kafka, redis and MongoDb
 - 🌱 I’m currently learning AWS and System Design
-- 💞️ I’m looking to collaborate on System Design and architecture
+- 💞️ I’m looking to collaborate on System Design and Architecture
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sagarkumar-unhale-653837b4/)
 
 <!---
